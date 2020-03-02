@@ -1,0 +1,8 @@
+(in-package #:cl-user)
+
+(defpackage #:sswt
+  (:use #:cl)
+  (:export #:CALC))
+
+(in-package #:sswt)
+
